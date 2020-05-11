@@ -1,4 +1,4 @@
-Software uses 0BSD license
+Software has 0BSD license
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
