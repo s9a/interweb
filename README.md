@@ -1,1 +1,1 @@
-> look at me now, all up in the interweb, world wide
+> [look at me now](index.html), all up in the [interweb](https://github.com/s9a/interweb), [world wide](LICENSE.txt)
